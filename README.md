@@ -1,6 +1,6 @@
 # React Redux Starter
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/dcDalin/react-redux-boilerplate) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/dcDalin/react-redux-boilerplate/commits/master) ![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/dcDalin/react-redux-boilerplate) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/dcDalin/react-redux-boilerplate/commits/master) [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://github.com/dcDalin/react-redux-boilerplate/blob/master/LICENSE)
 
 React, Redux - Redux Saga, Redux DevTools
 
@@ -22,22 +22,23 @@ Change Directory to the now cloned folder
 $ cd react-redux-boilerplate
 ```
 
-Install the dependencies 
+Install the dependencies
 
 ```sh
 $ yarn install
 ```
+
 #### Usage
+
 Start the server
 
 ```sh
 $ yarn start
 ```
 
-
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/dcDalin/)
 
- **Dalin Oluoch**
+**Dalin Oluoch**
 
 ## License
 
